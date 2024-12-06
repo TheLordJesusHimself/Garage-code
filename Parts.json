@@ -1,0 +1,22 @@
+[
+    {
+        "part_id": "Spark Plug",
+        "stock": 150,
+        "price": 3.75
+    },
+    {
+        "part_id": "Tire",
+        "stock": 75,
+        "price": 50.50
+    },
+    {
+        "part_id": "Brake Pad",
+        "stock": 200,
+        "price": 25.99
+    },
+    {
+        "part_id": "Oil Filter",
+        "stock": 100,
+        "price": 12.50
+    }
+]

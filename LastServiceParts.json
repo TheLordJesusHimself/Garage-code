@@ -1,0 +1,9 @@
+{
+    "parts": [
+        {"part_id": 1, "name": "Engine", "quantity": 10, "price": 250.0},
+        {"part_id": 2, "name": "Gearbox", "quantity": 5, "price": 150.0},
+        {"part_id": 3, "name": "Brake Pad", "quantity": 20, "price": 30.0},
+        {"part_id": 4, "name": "Wheel", "quantity": 15, "price": 100.5}
+        
+    ]
+}
